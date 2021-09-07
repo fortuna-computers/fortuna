@@ -1,18 +1,24 @@
 [submodule "fortuna-computers.github.io"]
 	path = fortuna-computers.github.io
 	url = https://github.com/fortuna-computers/fortuna-computers.github.io.git
+	branch = master
 [submodule "emulator"]
 	path = emulator
 	url = https://github.com/fortuna-computers/emulator.git
+	branch = master
 [submodule "fortuna-os"]
 	path = fortuna-os
 	url = https://github.com/fortuna-computers/fortuna-os.git
+	branch = master
 [submodule "fortuna-terminal"]
 	path = fortuna-terminal
 	url = https://github.com/fortuna-computers/fortuna-terminal.git
+	branch = master
 [submodule "fortuna-2"]
 	path = fortuna-2
 	url = https://github.com/fortuna-computers/fortuna-2.git
+	branch = master
 [submodule "fortuna-3"]
 	path = fortuna-3
 	url = https://github.com/fortuna-computers/fortuna-3.git
+	branch = master
