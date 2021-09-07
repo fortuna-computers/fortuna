@@ -1,18 +1,18 @@
 [submodule "fortuna-computers.github.io"]
 	path = fortuna-computers.github.io
-	url = https://andrenho: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@github.com/fortuna-computers/fortuna-computers.github.io.git
+	url = https://github.com/fortuna-computers/fortuna-computers.github.io.git
 [submodule "emulator"]
 	path = emulator
-	url = https://andrenho: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@github.com/fortuna-computers/emulator.git
+	url = https://github.com/fortuna-computers/emulator.git
 [submodule "fortuna-os"]
 	path = fortuna-os
-	url = https://andrenho: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@github.com/fortuna-computers/fortuna-os.git
+	url = https://github.com/fortuna-computers/fortuna-os.git
 [submodule "fortuna-terminal"]
 	path = fortuna-terminal
-	url = https://andrenho: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@github.com/fortuna-computers/fortuna-terminal.git
+	url = https://github.com/fortuna-computers/fortuna-terminal.git
 [submodule "fortuna-2"]
 	path = fortuna-2
-	url = https://andrenho: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@github.com/fortuna-computers/fortuna-2.git
+	url = https://github.com/fortuna-computers/fortuna-2.git
 [submodule "fortuna-3"]
 	path = fortuna-3
-	url = https://andrenho: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@github.com/fortuna-computers/fortuna-3.git
+	url = https://github.com/fortuna-computers/fortuna-3.git
