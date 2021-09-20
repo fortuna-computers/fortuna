@@ -2,7 +2,7 @@
 General direction of the projects:
 
 - **Website**
-  - Point gamesmith domain to website
+  - Add more photos
 - **Fortuna-2**
   - Implement a few basic programs, such as dir and BASIC
   - Eventually, create full FAT routines (possibly in the OS)
