@@ -4,6 +4,7 @@ General direction of the projects:
 - **Website**
   - Add more photos
 - **Fortuna-2**
+  - Possibly rewrite the firmware to increase speed, support FAT on SDCard and add timers.
   - Implement a few basic programs, such as dir and BASIC
   - Eventually, create full FAT routines (possibly in the OS)
 - **Fortuna-3**
