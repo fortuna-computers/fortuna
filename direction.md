@@ -3,14 +3,15 @@ General direction of the projects:
 
 - **Website**
   - Add more photos
+  - Fullscreen photos (without opening new page)
 - **Fortuna-2**
-  - Possibly rewrite the firmware to increase speed, support FAT on SDCard and add timers.
+  - Rewrite the firmware to increase speed, support FAT on SDCard and add timers.
   - Implement a few basic programs, such as dir and BASIC
-  - Eventually, create full FAT routines (possibly in the OS)
 - **Fortuna-3**
   - Create the computer
   - Define the inner workings of the controllers
 - **Fortuna-Terminal**
+  - Add pull-ups to PS/2 CLK and DATA (schematic and board)
   - Finish building the terminal
 - **Fortuna-OS**
   - Design the OS
