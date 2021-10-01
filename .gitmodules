@@ -22,3 +22,13 @@
 	path = fortuna-3
 	url = https://github.com/fortuna-computers/fortuna-3.git
 	branch = master
+[submodule "emulator/"]
+	branch = master
+[submodule "fortuna-computers.github.io/"]
+	branch = master
+[submodule "fortuna-os/"]
+	branch = master
+[submodule "fortuna-terminal/"]
+	branch = master
+[submodule "fortuna-2/"]
+	branch = new-firmware
