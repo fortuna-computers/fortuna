@@ -32,3 +32,8 @@
 	branch = master
 [submodule "fortuna-2/"]
 	branch = new-firmware
+[submodule "fortuna-fat32"]
+	path = fortuna-fat32
+	url = https://github.com/fortuna-computers/fortuna-fat32.git
+[submodule "fortuna-fat32/"]
+	branch = master
